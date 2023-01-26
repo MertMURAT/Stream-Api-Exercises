@@ -1,5 +1,6 @@
 # Stream-Api-Exercises
-[FOREACH], 
+
+ - [x][FOREACH], 
 [MAP and COLLECT], 
 [FILTER], 
 [FLATMAP], 
