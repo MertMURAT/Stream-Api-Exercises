@@ -1,6 +1,6 @@
-***
+
 # Stream-Api-Exercises
-***
+
  - [x] [FOREACH], 
  - [x] [MAP and COLLECT], 
  - [x] [FILTER], 
@@ -10,4 +10,4 @@
  - [x] [SORTİNG], 
  - [x] [MIN or MAX],
  - [x] [REDUCE]
-***
+
