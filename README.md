@@ -1,11 +1,13 @@
+***
 # Stream-Api-Exercises
-
- - [x][FOREACH], 
-[MAP and COLLECT], 
-[FILTER], 
-[FLATMAP], 
-[SHORT CIRCUIT], 
-[FINITE DATA], 
-[SORTİNG], 
-[MIN or MAX], [
-REDUCE]
+***
+ - [x] [FOREACH], 
+ - [x] [MAP and COLLECT], 
+ - [x] [FILTER], 
+ - [x] [FLATMAP], 
+ - [x] [SHORT CIRCUIT], 
+ - [x] [FINITE DATA], 
+ - [x] [SORTİNG], 
+ - [x] [MIN or MAX],
+ - [x] [REDUCE]
+***
